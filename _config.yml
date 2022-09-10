@@ -1,7 +1,7 @@
 # Configurations
-title:            Python Gitbook
-longtitle:        Python Gitbook
-author:           gns0304
+title:            일단 배워보는 파이썬
+longtitle:        일단 배워보는 파이썬
+author:           한지훈
 email:            gns0304@naver.com
 description: >
   Build Jekyll site with the GitBook style.
