@@ -14,7 +14,7 @@ baseurl:          '/python'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: gns0304/python
 
 toc:
   enabled: true
