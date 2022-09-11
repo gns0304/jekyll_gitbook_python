@@ -153,6 +153,10 @@
     font-family: 'Noto Sans KR', sans-serif;
 }
 
+.markdown-section p {
+    text-indent: 1em;
+}
+
 /* Render wide tables */
 
 .table-wrapper {
