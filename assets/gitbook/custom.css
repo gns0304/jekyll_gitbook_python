@@ -143,7 +143,6 @@
     color: inherit;
 }
 
-
 /* Custom font settings */
 
 .book.font-family-0 {
@@ -152,10 +151,6 @@
 .book.font-family-1 {
     font-family: 'Noto Sans KR', sans-serif;
 }
-.book-summary ul.summary {
-    margin-top: 10px;
-}
-
 
 /* Custom design settings */
 
@@ -164,6 +159,9 @@
     text-align:justify;
 }
 
+.book-summary ul.summary {
+    margin-top: 7px;
+}
 
 /* Render wide tables */
 
