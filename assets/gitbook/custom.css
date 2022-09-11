@@ -153,9 +153,14 @@
     font-family: 'Noto Sans KR', sans-serif;
 }
 
+
+/* Custom design settings */
+
 .markdown-section p {
     text-indent: 1em;
+    text-align:justify;
 }
+
 
 /* Render wide tables */
 
