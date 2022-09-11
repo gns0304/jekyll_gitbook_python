@@ -1,10 +1,10 @@
 # Configurations
-title:            일단 배워보는 파이썬
-longtitle:        일단 배워보는 파이썬
+title:            글로 읽는 파이썬
+longtitle:        글로 읽는 파이썬
 author:           한지훈
 email:            gns0304@naver.com
 description: >
-  Build Jekyll site with the GitBook style.
+  글로 정리한 파이썬입니다
 
 version:          1.0
 gitbook_version:  3.2.3
