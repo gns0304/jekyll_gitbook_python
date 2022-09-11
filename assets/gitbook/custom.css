@@ -152,6 +152,9 @@
 .book.font-family-1 {
     font-family: 'Noto Sans KR', sans-serif;
 }
+.book-summary ul.summary {
+    margin-top: 10px;
+}
 
 
 /* Custom design settings */
