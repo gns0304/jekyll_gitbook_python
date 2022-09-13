@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://gns0304.github.io'
-baseurl:          '/python'
+url:              'http://python.i10x.me/'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
